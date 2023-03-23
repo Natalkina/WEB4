@@ -1,3 +1,4 @@
 storage/*
 venv
 !storage/.gitkeep
+.idea
